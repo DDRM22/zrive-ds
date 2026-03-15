@@ -1,0 +1,11 @@
+
+notebook
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pyarrow
+fastparquet
+nbconvert
